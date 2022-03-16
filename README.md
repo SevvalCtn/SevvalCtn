@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SevvalCtn
 - 👀 I’m interested in design
 - 🌱 I’m currently learning industrial product design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on product design & UI UX projects
 - 📫 How to reach me in/şevval-çetin-108722219
 
 <!---
