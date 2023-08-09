@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SevvalCtn
 - 👀 I’m interested in design
-- 🌱 I’m currently learning industrial product design
+- 🌱 I graduated as an industrial product designer from Beykent University
 - 💞️ I’m looking to collaborate on product design & UI UX projects
-- 📫 How to reach me in/şevval-çetin-108722219
+- 📫 How to reach me in/şevval-çetin-designer
 
 <!---
 SevvalCtn/SevvalCtn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
